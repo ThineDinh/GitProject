@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap2\TimeSystem\bin\Debug\TimeSystem.exe.config
+E:\Github\GitProject\Baitap2\TimeSystem\bin\Debug\TimeSystem.exe
+E:\Github\GitProject\Baitap2\TimeSystem\bin\Debug\TimeSystem.pdb
+E:\Github\GitProject\Baitap2\TimeSystem\obj\Debug\TimeSystem.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap2\TimeSystem\obj\Debug\TimeSystem.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap2\TimeSystem\obj\Debug\TimeSystem.exe
+E:\Github\GitProject\Baitap2\TimeSystem\obj\Debug\TimeSystem.pdb
