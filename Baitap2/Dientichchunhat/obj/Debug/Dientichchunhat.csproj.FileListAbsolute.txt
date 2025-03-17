@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap2\Dientichchunhat\bin\Debug\Dientichchunhat.exe.config
+E:\Github\GitProject\Baitap2\Dientichchunhat\bin\Debug\Dientichchunhat.exe
+E:\Github\GitProject\Baitap2\Dientichchunhat\bin\Debug\Dientichchunhat.pdb
+E:\Github\GitProject\Baitap2\Dientichchunhat\obj\Debug\Dientichchunhat.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap2\Dientichchunhat\obj\Debug\Dientichchunhat.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap2\Dientichchunhat\obj\Debug\Dientichchunhat.exe
+E:\Github\GitProject\Baitap2\Dientichchunhat\obj\Debug\Dientichchunhat.pdb

@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap3\Kiemtranamnhuan\bin\Debug\Kiemtranamnhuan.exe.config
+E:\Github\GitProject\Baitap3\Kiemtranamnhuan\bin\Debug\Kiemtranamnhuan.exe
+E:\Github\GitProject\Baitap3\Kiemtranamnhuan\bin\Debug\Kiemtranamnhuan.pdb
+E:\Github\GitProject\Baitap3\Kiemtranamnhuan\obj\Debug\Kiemtranamnhuan.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap3\Kiemtranamnhuan\obj\Debug\Kiemtranamnhuan.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap3\Kiemtranamnhuan\obj\Debug\Kiemtranamnhuan.exe
+E:\Github\GitProject\Baitap3\Kiemtranamnhuan\obj\Debug\Kiemtranamnhuan.pdb

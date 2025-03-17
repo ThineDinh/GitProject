@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap3\Hienthicacloaihinh\bin\Debug\Hienthicacloaihinh.exe.config
+E:\Github\GitProject\Baitap3\Hienthicacloaihinh\bin\Debug\Hienthicacloaihinh.exe
+E:\Github\GitProject\Baitap3\Hienthicacloaihinh\bin\Debug\Hienthicacloaihinh.pdb
+E:\Github\GitProject\Baitap3\Hienthicacloaihinh\obj\Debug\Hienthicacloaihinh.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap3\Hienthicacloaihinh\obj\Debug\Hienthicacloaihinh.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap3\Hienthicacloaihinh\obj\Debug\Hienthicacloaihinh.exe
+E:\Github\GitProject\Baitap3\Hienthicacloaihinh\obj\Debug\Hienthicacloaihinh.pdb

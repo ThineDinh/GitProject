@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap2\Sayhi\bin\Debug\Sayhi.exe.config
+E:\Github\GitProject\Baitap2\Sayhi\bin\Debug\Sayhi.exe
+E:\Github\GitProject\Baitap2\Sayhi\bin\Debug\Sayhi.pdb
+E:\Github\GitProject\Baitap2\Sayhi\obj\Debug\Sayhi.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap2\Sayhi\obj\Debug\Sayhi.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap2\Sayhi\obj\Debug\Sayhi.exe
+E:\Github\GitProject\Baitap2\Sayhi\obj\Debug\Sayhi.pdb

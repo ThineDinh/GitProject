@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap3\Insonguyento\bin\Debug\Insonguyento.exe.config
+E:\Github\GitProject\Baitap3\Insonguyento\bin\Debug\Insonguyento.exe
+E:\Github\GitProject\Baitap3\Insonguyento\bin\Debug\Insonguyento.pdb
+E:\Github\GitProject\Baitap3\Insonguyento\obj\Debug\Insonguyento.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap3\Insonguyento\obj\Debug\Insonguyento.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap3\Insonguyento\obj\Debug\Insonguyento.exe
+E:\Github\GitProject\Baitap3\Insonguyento\obj\Debug\Insonguyento.pdb

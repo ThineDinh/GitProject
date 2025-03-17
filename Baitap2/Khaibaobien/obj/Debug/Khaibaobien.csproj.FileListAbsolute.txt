@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap2\Khaibaobien\bin\Debug\Khaibaobien.exe.config
+E:\Github\GitProject\Baitap2\Khaibaobien\bin\Debug\Khaibaobien.exe
+E:\Github\GitProject\Baitap2\Khaibaobien\bin\Debug\Khaibaobien.pdb
+E:\Github\GitProject\Baitap2\Khaibaobien\obj\Debug\Khaibaobien.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap2\Khaibaobien\obj\Debug\Khaibaobien.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap2\Khaibaobien\obj\Debug\Khaibaobien.exe
+E:\Github\GitProject\Baitap2\Khaibaobien\obj\Debug\Khaibaobien.pdb

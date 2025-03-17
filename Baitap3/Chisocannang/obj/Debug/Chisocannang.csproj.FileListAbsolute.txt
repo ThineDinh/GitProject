@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap3\Chisocannang\bin\Debug\Chisocannang.exe.config
+E:\Github\GitProject\Baitap3\Chisocannang\bin\Debug\Chisocannang.exe
+E:\Github\GitProject\Baitap3\Chisocannang\bin\Debug\Chisocannang.pdb
+E:\Github\GitProject\Baitap3\Chisocannang\obj\Debug\Chisocannang.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap3\Chisocannang\obj\Debug\Chisocannang.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap3\Chisocannang\obj\Debug\Chisocannang.exe
+E:\Github\GitProject\Baitap3\Chisocannang\obj\Debug\Chisocannang.pdb

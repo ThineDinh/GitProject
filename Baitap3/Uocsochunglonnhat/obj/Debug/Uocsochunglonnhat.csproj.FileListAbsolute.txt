@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap3\Uocsochunglonnhat\bin\Debug\Uocsochunglonnhat.exe.config
+E:\Github\GitProject\Baitap3\Uocsochunglonnhat\bin\Debug\Uocsochunglonnhat.exe
+E:\Github\GitProject\Baitap3\Uocsochunglonnhat\bin\Debug\Uocsochunglonnhat.pdb
+E:\Github\GitProject\Baitap3\Uocsochunglonnhat\obj\Debug\Uocsochunglonnhat.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap3\Uocsochunglonnhat\obj\Debug\Uocsochunglonnhat.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap3\Uocsochunglonnhat\obj\Debug\Uocsochunglonnhat.exe
+E:\Github\GitProject\Baitap3\Uocsochunglonnhat\obj\Debug\Uocsochunglonnhat.pdb

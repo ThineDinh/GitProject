@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap3\Tinhtienlai\bin\Debug\Tinhtienlai.exe.config
+E:\Github\GitProject\Baitap3\Tinhtienlai\bin\Debug\Tinhtienlai.exe
+E:\Github\GitProject\Baitap3\Tinhtienlai\bin\Debug\Tinhtienlai.pdb
+E:\Github\GitProject\Baitap3\Tinhtienlai\obj\Debug\Tinhtienlai.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap3\Tinhtienlai\obj\Debug\Tinhtienlai.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap3\Tinhtienlai\obj\Debug\Tinhtienlai.exe
+E:\Github\GitProject\Baitap3\Tinhtienlai\obj\Debug\Tinhtienlai.pdb

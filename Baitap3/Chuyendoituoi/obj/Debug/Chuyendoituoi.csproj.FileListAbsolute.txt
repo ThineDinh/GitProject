@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap3\Chuyendoituoi\bin\Debug\Chuyendoituoi.exe.config
+E:\Github\GitProject\Baitap3\Chuyendoituoi\bin\Debug\Chuyendoituoi.exe
+E:\Github\GitProject\Baitap3\Chuyendoituoi\bin\Debug\Chuyendoituoi.pdb
+E:\Github\GitProject\Baitap3\Chuyendoituoi\obj\Debug\Chuyendoituoi.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap3\Chuyendoituoi\obj\Debug\Chuyendoituoi.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap3\Chuyendoituoi\obj\Debug\Chuyendoituoi.exe
+E:\Github\GitProject\Baitap3\Chuyendoituoi\obj\Debug\Chuyendoituoi.pdb
