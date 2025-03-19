@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap4\Timgiatritrongmang\bin\Debug\Timgiatritrongmang.exe.config
+E:\Github\GitProject\Baitap4\Timgiatritrongmang\bin\Debug\Timgiatritrongmang.exe
+E:\Github\GitProject\Baitap4\Timgiatritrongmang\bin\Debug\Timgiatritrongmang.pdb
+E:\Github\GitProject\Baitap4\Timgiatritrongmang\obj\Debug\Timgiatritrongmang.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap4\Timgiatritrongmang\obj\Debug\Timgiatritrongmang.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap4\Timgiatritrongmang\obj\Debug\Timgiatritrongmang.exe
+E:\Github\GitProject\Baitap4\Timgiatritrongmang\obj\Debug\Timgiatritrongmang.pdb
