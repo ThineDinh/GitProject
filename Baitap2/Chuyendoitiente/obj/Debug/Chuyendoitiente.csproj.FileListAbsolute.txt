@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap2\Chuyendoitiente\bin\Debug\Chuyendoitiente.exe.config
+E:\Github\GitProject\Baitap2\Chuyendoitiente\bin\Debug\Chuyendoitiente.exe
+E:\Github\GitProject\Baitap2\Chuyendoitiente\bin\Debug\Chuyendoitiente.pdb
+E:\Github\GitProject\Baitap2\Chuyendoitiente\obj\Debug\Chuyendoitiente.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap2\Chuyendoitiente\obj\Debug\Chuyendoitiente.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap2\Chuyendoitiente\obj\Debug\Chuyendoitiente.exe
+E:\Github\GitProject\Baitap2\Chuyendoitiente\obj\Debug\Chuyendoitiente.pdb

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XayDungClassAnimal", "XayDungClassAnimal.csproj", "{83AA6C61-3334-4B39-83E2-78860142CAB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83AA6C61-3334-4B39-83E2-78860142CAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83AA6C61-3334-4B39-83E2-78860142CAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83AA6C61-3334-4B39-83E2-78860142CAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83AA6C61-3334-4B39-83E2-78860142CAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C897774F-0039-425F-9EE5-49DD75392A58}
+	EndGlobalSection
+EndGlobal

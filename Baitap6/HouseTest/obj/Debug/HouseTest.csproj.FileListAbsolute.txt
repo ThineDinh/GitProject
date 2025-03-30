@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap6\HouseTest\bin\Debug\HouseTest.exe.config
+E:\Github\GitProject\Baitap6\HouseTest\bin\Debug\HouseTest.exe
+E:\Github\GitProject\Baitap6\HouseTest\bin\Debug\HouseTest.pdb
+E:\Github\GitProject\Baitap6\HouseTest\obj\Debug\HouseTest.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap6\HouseTest\obj\Debug\HouseTest.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap6\HouseTest\obj\Debug\HouseTest.exe
+E:\Github\GitProject\Baitap6\HouseTest\obj\Debug\HouseTest.pdb

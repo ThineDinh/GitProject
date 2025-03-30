@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap5\TimnhaListvaDict\obj\Debug\TimnhaListvaDict.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap5\TimnhaListvaDict\obj\Debug\TimnhaListvaDict.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap5\TimnhaListvaDict\bin\Debug\TimnhaListvaDict.exe.config
+E:\Github\GitProject\Baitap5\TimnhaListvaDict\bin\Debug\TimnhaListvaDict.exe
+E:\Github\GitProject\Baitap5\TimnhaListvaDict\bin\Debug\TimnhaListvaDict.pdb
+E:\Github\GitProject\Baitap5\TimnhaListvaDict\obj\Debug\TimnhaListvaDict.exe
+E:\Github\GitProject\Baitap5\TimnhaListvaDict\obj\Debug\TimnhaListvaDict.pdb

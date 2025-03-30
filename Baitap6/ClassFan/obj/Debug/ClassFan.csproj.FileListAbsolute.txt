@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap6\ClassFan\bin\Debug\ClassFan.exe.config
+E:\Github\GitProject\Baitap6\ClassFan\bin\Debug\ClassFan.exe
+E:\Github\GitProject\Baitap6\ClassFan\bin\Debug\ClassFan.pdb
+E:\Github\GitProject\Baitap6\ClassFan\obj\Debug\ClassFan.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap6\ClassFan\obj\Debug\ClassFan.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap6\ClassFan\obj\Debug\ClassFan.exe
+E:\Github\GitProject\Baitap6\ClassFan\obj\Debug\ClassFan.pdb

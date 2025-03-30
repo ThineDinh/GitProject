@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap5\DemoList\bin\Debug\DemoList.exe.config
+E:\Github\GitProject\Baitap5\DemoList\bin\Debug\DemoList.exe
+E:\Github\GitProject\Baitap5\DemoList\bin\Debug\DemoList.pdb
+E:\Github\GitProject\Baitap5\DemoList\obj\Debug\DemoList.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap5\DemoList\obj\Debug\DemoList.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap5\DemoList\obj\Debug\DemoList.exe
+E:\Github\GitProject\Baitap5\DemoList\obj\Debug\DemoList.pdb

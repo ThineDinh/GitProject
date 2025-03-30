@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap6\XayDungClassAnimal\bin\Debug\XayDungClassAnimal.exe.config
+E:\Github\GitProject\Baitap6\XayDungClassAnimal\bin\Debug\XayDungClassAnimal.exe
+E:\Github\GitProject\Baitap6\XayDungClassAnimal\bin\Debug\XayDungClassAnimal.pdb
+E:\Github\GitProject\Baitap6\XayDungClassAnimal\obj\Debug\XayDungClassAnimal.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap6\XayDungClassAnimal\obj\Debug\XayDungClassAnimal.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap6\XayDungClassAnimal\obj\Debug\XayDungClassAnimal.exe
+E:\Github\GitProject\Baitap6\XayDungClassAnimal\obj\Debug\XayDungClassAnimal.pdb
