@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap2\Phuongtrinhbacnhat\bin\Debug\Phuongtrinhbacnhat.exe.config
+E:\Github\GitProject\Baitap2\Phuongtrinhbacnhat\bin\Debug\Phuongtrinhbacnhat.exe
+E:\Github\GitProject\Baitap2\Phuongtrinhbacnhat\bin\Debug\Phuongtrinhbacnhat.pdb
+E:\Github\GitProject\Baitap2\Phuongtrinhbacnhat\obj\Debug\Phuongtrinhbacnhat.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap2\Phuongtrinhbacnhat\obj\Debug\Phuongtrinhbacnhat.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap2\Phuongtrinhbacnhat\obj\Debug\Phuongtrinhbacnhat.exe
+E:\Github\GitProject\Baitap2\Phuongtrinhbacnhat\obj\Debug\Phuongtrinhbacnhat.pdb

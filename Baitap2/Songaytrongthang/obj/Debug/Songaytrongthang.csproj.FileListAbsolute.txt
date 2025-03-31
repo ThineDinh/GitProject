@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap2\Songaytrongthang\bin\Debug\Songaytrongthang.exe.config
+E:\Github\GitProject\Baitap2\Songaytrongthang\bin\Debug\Songaytrongthang.exe
+E:\Github\GitProject\Baitap2\Songaytrongthang\bin\Debug\Songaytrongthang.pdb
+E:\Github\GitProject\Baitap2\Songaytrongthang\obj\Debug\Songaytrongthang.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap2\Songaytrongthang\obj\Debug\Songaytrongthang.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap2\Songaytrongthang\obj\Debug\Songaytrongthang.exe
+E:\Github\GitProject\Baitap2\Songaytrongthang\obj\Debug\Songaytrongthang.pdb

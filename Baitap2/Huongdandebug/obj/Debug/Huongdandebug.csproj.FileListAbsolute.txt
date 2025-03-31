@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap2\Huongdandebug\bin\Debug\Huongdandebug.exe.config
+E:\Github\GitProject\Baitap2\Huongdandebug\bin\Debug\Huongdandebug.exe
+E:\Github\GitProject\Baitap2\Huongdandebug\bin\Debug\Huongdandebug.pdb
+E:\Github\GitProject\Baitap2\Huongdandebug\obj\Debug\Huongdandebug.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap2\Huongdandebug\obj\Debug\Huongdandebug.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap2\Huongdandebug\obj\Debug\Huongdandebug.exe
+E:\Github\GitProject\Baitap2\Huongdandebug\obj\Debug\Huongdandebug.pdb

@@ -1,0 +1,7 @@
+E:\Github\GitProject\Baitap2\Docsothanhchu\bin\Debug\Docsothanhchu.exe.config
+E:\Github\GitProject\Baitap2\Docsothanhchu\bin\Debug\Docsothanhchu.exe
+E:\Github\GitProject\Baitap2\Docsothanhchu\bin\Debug\Docsothanhchu.pdb
+E:\Github\GitProject\Baitap2\Docsothanhchu\obj\Debug\Docsothanhchu.csproj.AssemblyReference.cache
+E:\Github\GitProject\Baitap2\Docsothanhchu\obj\Debug\Docsothanhchu.csproj.CoreCompileInputs.cache
+E:\Github\GitProject\Baitap2\Docsothanhchu\obj\Debug\Docsothanhchu.exe
+E:\Github\GitProject\Baitap2\Docsothanhchu\obj\Debug\Docsothanhchu.pdb
